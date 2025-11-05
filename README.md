@@ -1,2 +1,1 @@
 # site-Ajuda-
-# Projeto Ajuda+
